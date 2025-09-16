@@ -1,1 +1,7 @@
-# Mijn Notities.
+# Mijn Wiki
+
+## Secties
+
+- [[ToDo]]
+- [[Tutorials]]
+- [[CLI-Notities]]
